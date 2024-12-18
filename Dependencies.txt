@@ -1,0 +1,9 @@
+Dependencies:
+
+Python (version 3.6 or higher)
+TensorFlow (with GPU support for better performance)
+DeepFace
+Tkinter (usually included with Python)
+Pillow (PIL)
+OpenCV
+NumPy
